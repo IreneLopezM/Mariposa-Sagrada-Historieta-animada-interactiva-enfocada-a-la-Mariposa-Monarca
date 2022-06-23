@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1177: u'queue' is not a keyword argument or valid child for the screen statement.
+    queue sound "audio/sonido/papel.mp3"
+         ^
+
+Ren'Py Version: Ren'Py 7.4.9.2142
+Sun May 29 17:19:22 2022
