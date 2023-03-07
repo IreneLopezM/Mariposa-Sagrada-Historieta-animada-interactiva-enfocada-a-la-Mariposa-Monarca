@@ -11,7 +11,7 @@
 <br>
 
 ## 1.  What is the cartoon about?
-It is a desktop application that shows the migratory route and the natural and unnatural challenges that the Monarch Butterfly faces to reach its destination, the hibernation forests; in order to promote awareness in the conservation of this insect and its habitat.
+It's a desktop application that shows the migratory route and the natural and unnatural challenges that the Monarch Butterfly faces to reach its destination, the hibernation forests; in order to promote awareness in the conservation of this insect and its habitat.
 
 The cartoon is divided into five sequential chapters, each one dealing with a cause of mortality for the monarch butterfly.
 During each chapter the user must make different decisions in order to safeguard as many butterflies as possible.
@@ -19,7 +19,7 @@ During each chapter the user must make different decisions in order to safeguard
 <br>
 
 > #### This project is developed with the following tools:
-* **Renpy:** It is the game engine where the logic of the cartoon was developed, using Python for programming.
+* **Renpy:** it's the game engine where the logic of the cartoon was developed, using Python for programming.
 * **OpenToonz:** to create the animations of the cartoon.
 * **Paint tool sai 2:** to create the background scenes for the animations.
 
@@ -97,5 +97,6 @@ Minimum system requirements:
 <br>
 
 ## 5. Try the demo 
-1. Download the “MariposaSagradaPrototipoBeta” folder
+1. [Download this repository](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/archive/refs/heads/main.zip)
+2. Open the “MariposaSagradaPrototipoBeta” folder
 2. Double click on the “MariposaSagradaPrototipoBeta.exe” file and start a new adventure! 
