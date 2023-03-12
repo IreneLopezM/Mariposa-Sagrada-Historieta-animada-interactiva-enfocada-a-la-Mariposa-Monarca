@@ -2,11 +2,11 @@
 
 # Mariposa Sagrada:  Animated-interactive cartoon focused on Monarch Butterfly 
 ## Index
-1. [What is the cartoon about?](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/edit/main/README.md#1--what-is-the-cartoon-about)
-2. [What did I developed?](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/edit/main/README.md#2-what-did-i-developed)   
-3. [Characteristics](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/edit/main/README.md#3-characteristics) 
-4. [Interface Screenshot](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/edit/main/README.md#4-interface-screenshot)
-5. [Try the demo](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca/edit/main/README.md#5-try-the-demo) 
+1. [What is the cartoon about?](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca#1--what-is-the-cartoon-about)
+2. [What did I developed?](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca#2-what-did-i-developed)   
+3. [https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca#3-characteristics) 
+4. [Interface Screenshot](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca#4-interface-screenshot)
+5. [Try the demo](https://github.com/IreneLopezM/Mariposa-Sagrada-Historieta-animada-interactiva-enfocada-a-la-Mariposa-Monarca#5-try-the-demo) 
 
 <br>
 
