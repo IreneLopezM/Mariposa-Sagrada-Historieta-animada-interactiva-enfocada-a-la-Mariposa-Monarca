@@ -62,37 +62,37 @@ Minimum system requirements:
 
 ## 4. Interface Screenshot
 **Main menu** <br>
-![main-menu](https://user-images.githubusercontent.com/107958147/223314278-7c668036-28ad-4663-80f6-acfe3be90664.JPG)
+![main-menu](https://user-images.githubusercontent.com/107958147/224572710-56397adb-41de-4c7f-9f14-f2a6eb9ba9b3.JPG)
 
 **Butterfly genus record** <br>
-![genus](https://user-images.githubusercontent.com/107958147/223314262-bf68d88c-3107-4f9f-98ab-d9b87d4d4a76.JPG)
+![genus](https://user-images.githubusercontent.com/107958147/224572712-96e1a86a-3070-47ca-972c-a8e03f7a9ee0.JPG)
 
 **Username record** <br>
-![username](https://user-images.githubusercontent.com/107958147/223314234-3be3d6c7-4e11-4017-9356-903d05bb87a4.JPG)
+![username](https://user-images.githubusercontent.com/107958147/224572681-ef261307-3bfd-45c6-b6a1-ff388f80ed89.JPG)
 
 **Informative messages** <br>
-![info](https://user-images.githubusercontent.com/107958147/223314218-f257b805-1c73-45a2-a8bd-3f74b42c3455.JPG)
+![info](https://user-images.githubusercontent.com/107958147/224572665-ed2f0bf2-aed2-46bc-89ee-8fdf0c914c27.JPG)
 
 **Narration** <br>
-![narration](https://user-images.githubusercontent.com/107958147/223314242-811a6417-36b9-43b9-a900-839e14add40d.JPG)
+![narration](https://user-images.githubusercontent.com/107958147/224572688-f33433b6-5c5f-4ceb-91bd-58407428bc66.JPG)
 
 **Items and notification messages** <br>
-![items](https://user-images.githubusercontent.com/107958147/223314214-3789bf0e-af90-4c68-ae81-1d1e594611c6.JPG)
+![items](https://user-images.githubusercontent.com/107958147/224572666-3d60106b-6035-4ff2-8333-21fbd51caef5.JPG)
 
 **Decisions** <br>
-![desicions](https://user-images.githubusercontent.com/107958147/223314250-10f45ac6-9c66-4f8a-a29e-6c87749ad2e3.JPG)
+![desicions](https://user-images.githubusercontent.com/107958147/224572703-edde8c7b-e59a-41f4-acd3-8ada98286879.JPG)
 
 **Decisions with a time limit** <br>
-![time](https://user-images.githubusercontent.com/107958147/223314231-737538aa-19a8-4671-9bdc-b1027279b284.JPG)
+![time](https://user-images.githubusercontent.com/107958147/224572662-c1b3b12e-4cc7-40ea-8323-347519ff5e9e.JPG)
 
 **Statistics screen** <br>
-![statistics](https://user-images.githubusercontent.com/107958147/223316311-b7303d4d-b445-4bdb-8048-469d51abe322.JPG)
+![statistics](https://user-images.githubusercontent.com/107958147/224572660-e5cc98c0-3434-4a5c-a6c7-f7561fadf122.JPG)
 
 **Exit game** <br>
-![exit](https://user-images.githubusercontent.com/107958147/223314216-2801a839-01f3-4797-b238-4be5cb217715.JPG)
+![exit](https://user-images.githubusercontent.com/107958147/224572663-564bce35-7690-441c-84ac-f812502aa3ed.JPG)
 
 **Save options** <br>
-![save-opcions](https://user-images.githubusercontent.com/107958147/223314230-c1cdf4ba-4a00-46a2-a26d-d3efc0ee6780.JPG)
+![save-opcions](https://user-images.githubusercontent.com/107958147/224572658-d306c843-37fb-42f9-99ef-f7e2ae709759.JPG)
 
 <br>
 
